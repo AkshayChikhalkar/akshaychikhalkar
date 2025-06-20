@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**AkshayChikhalkar/akshaychikhalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Hi there, I'm Akshay! 👋
+# Hi there, I'm Akshay! 👋
 
 I'm a passionate software developer with a strong interest in autonomous driving, simulation, and building scalable, end-to-end applications. I enjoy tackling complex problems and building robust systems with a focus on clean code, comprehensive testing, and automated CI/CD pipelines.
 
@@ -68,11 +60,3 @@ Here are some of the technologies I'm proficient in:
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
 </p>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
