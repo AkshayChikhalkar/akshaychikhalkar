@@ -55,8 +55,8 @@ My homelab helps me experiment with real-world infrastructure while automating m
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaychikhalkar&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychikhalkar&layout=compact&theme=radical" width="305"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaychikhalkar&show_icons=true&theme=radical" width="270"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychikhalkar&layout=compact&theme=radical" width="205"/>
 </p>
 
 
