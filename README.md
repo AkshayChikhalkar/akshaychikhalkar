@@ -1,7 +1,7 @@
 # Hi, I'm Akshay 👋
 
-I use **macOS** for personal projects, **Linux** for servers and homelab setups, and **Windows** for work.  
-I'm a **software engineer** with broad interests in **software development**, **system design**, and **automation**. I enjoy building **scalable applications**, working with **distributed systems**, and applying **DevOps practices** like **clean code**, **testing**, and **CI/CD pipelines** to deliver reliable software.
+I dual-boot **macOS** and **Linux** at home, run **Proxmox** on my servers, tolerate **Windows** at work — and spend too much time in the terminal by choice.  
+I'm a **software engineer** who enjoys designing **clean systems**, building **scalable software**, and automating everything that can be automated.
 
 ---
 
